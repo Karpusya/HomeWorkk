@@ -10,8 +10,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eefb2029-1cf6-41b5-a13a-8b20f2f714bb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/TestFolder/index.html" afterDir="false" />
+    <list default="true" id="eefb2029-1cf6-41b5-a13a-8b20f2f714bb" name="Default Changelist" comment="Test commitsd">
+      <change afterPath="$PROJECT_DIR$/Homework 5/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework 5/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Непонятно шо/index.html" beforeDir="false" />
     </list>
@@ -19,6 +20,14 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -29,9 +38,12 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -43,7 +55,7 @@
       <option name="presentableId" value="Default" />
       <updated>1603304561966</updated>
       <workItem from="1603304564448" duration="687000" />
-      <workItem from="1603385332586" duration="425000" />
+      <workItem from="1603385332586" duration="6179000" />
     </task>
     <task id="LOCAL-00001" summary="21.10.20">
       <created>1603304649749</created>
@@ -59,7 +71,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603385474461</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Test commit">
+      <created>1603385822416</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1603385822416</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -79,25 +98,30 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="21.10.20" />
-    <option name="LAST_COMMIT_MESSAGE" value="21.10.20" />
+    <MESSAGE value="Test commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test commit" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="297" y="23" key="CommitChangelistDialog2" timestamp="1603385474091">
+    <state x="297" y="23" key="CommitChangelistDialog2" timestamp="1603385874820">
       <screen x="0" y="23" width="1440" height="798" />
     </state>
-    <state x="297" y="23" key="CommitChangelistDialog2/0.23.1440.798@0.23.1440.798" timestamp="1603385474091" />
+    <state x="297" y="23" key="CommitChangelistDialog2/0.23.1440.798@0.23.1440.798" timestamp="1603385874820" />
     <state x="586" y="326" key="Github.ShareDialog" timestamp="1603385716571">
       <screen x="0" y="23" width="1440" height="801" />
     </state>
     <state x="586" y="326" key="Github.ShareDialog/0.23.1440.801@0.23.1440.801" timestamp="1603385716571" />
-    <state x="320" y="161" key="Vcs.Push.Dialog.v2" timestamp="1603385497662">
+    <state x="320" y="161" key="Vcs.Push.Dialog.v2" timestamp="1603385843262">
       <screen x="0" y="23" width="1440" height="798" />
     </state>
     <state x="320" y="160" key="Vcs.Push.Dialog.v2/0.23.1440.795@0.23.1440.795" timestamp="1603304664356" />
-    <state x="320" y="161" key="Vcs.Push.Dialog.v2/0.23.1440.798@0.23.1440.798" timestamp="1603385497662" />
+    <state x="320" y="161" key="Vcs.Push.Dialog.v2/0.23.1440.798@0.23.1440.798" timestamp="1603385843262" />
     <state x="518" y="318" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1603385575876">
       <screen x="0" y="23" width="1440" height="798" />
     </state>
     <state x="518" y="318" key="git4idea.remote.GitConfigureRemotesDialog/0.23.1440.798@0.23.1440.798" timestamp="1603385575876" />
+    <state x="385" y="189" key="run.anything.popup" timestamp="1603387454001">
+      <screen x="0" y="23" width="1440" height="792" />
+    </state>
+    <state x="385" y="189" key="run.anything.popup/0.23.1440.792@0.23.1440.792" timestamp="1603387454001" />
   </component>
 </project>

@@ -1,0 +1,68 @@
+
+
+.menu1 {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    justify-content: center;
+    padding: 12px;
+}
+.color {
+    color: darkred;
+
+
+}
+.menu1>div{padding: 12px;
+    font-weight: bold;
+
+}
+.menu2 {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    justify-content: space-around;
+    height: 70px;
+    background: darkred;
+    color: aliceblue;
+}
+
+.button-wrap {
+    width: 40px;
+    height: 40px;
+    position: relative;
+}
+
+.button-wrap span {
+    display: inline-block;
+    width: 30px;
+    height: 3px;
+    background-color: white;
+    position: absolute;
+    font-size: 0;
+    left: 50%;
+    margin-left: -15px;
+    top: 50%;
+    margin-top: -1.5px;
+}
+
+.button-wrap span::before, .button-wrap span::after {
+    content: '';
+    position: absolute;
+    display: block;
+    width: 100%;
+    height: 100%;
+    background-color: white;
+}
+
+.button-wrap span::before {
+    top: -10px;
+}
+
+.button-wrap span::after {
+    top: 10px;
+}
+
+{
+
+}
+
