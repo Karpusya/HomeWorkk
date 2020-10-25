@@ -10,19 +10,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eefb2029-1cf6-41b5-a13a-8b20f2f714bb" name="Default Changelist" comment="25.10.20">
+    <list default="true" id="eefb2029-1cf6-41b5-a13a-8b20f2f714bb" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework 2/CSS/Style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Homework 2/CSS/Style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework 2/Images/__opt__aboutcom__coeus__resources__content_migration__mnn__images__2016__05__Fresh-fruit-pretty-dcd9888b2d7942bc89f350739ad6e005.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework 2/Untitled-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Homework 2/Untitled-1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_mac/laf.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/codestyles/Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/colors.scheme.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/debugger.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/editor.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/filetypes.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/github.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lightEdit.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework 3/CSS/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Homework 3/CSS/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +44,7 @@
       <workItem from="1603304564448" duration="687000" />
       <workItem from="1603385299849" duration="9966000" />
       <workItem from="1603634107067" duration="278000" />
-      <workItem from="1603644549197" duration="1960000" />
+      <workItem from="1603644549197" duration="3299000" />
     </task>
     <task id="LOCAL-00001" summary="21.10.20">
       <created>1603304649749</created>
@@ -63,7 +53,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603304649749</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="25.10.20">
+      <created>1603646578013</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1603646578014</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -87,13 +84,14 @@
     <option name="LAST_COMMIT_MESSAGE" value="25.10.20" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="297" y="23" key="CommitChangelistDialog2" timestamp="1603645892299">
+    <state x="0" y="23" key="CommitChangelistDialog2" timestamp="1603646577769">
       <screen x="0" y="23" width="1440" height="792" />
     </state>
-    <state x="297" y="23" key="CommitChangelistDialog2/0.23.1440.792@0.23.1440.792" timestamp="1603645892299" />
-    <state x="320" y="160" key="Vcs.Push.Dialog.v2" timestamp="1603304664356">
-      <screen x="0" y="23" width="1440" height="795" />
+    <state x="0" y="23" key="CommitChangelistDialog2/0.23.1440.792@0.23.1440.792" timestamp="1603646577769" />
+    <state x="320" y="159" key="Vcs.Push.Dialog.v2" timestamp="1603646603893">
+      <screen x="0" y="23" width="1440" height="792" />
     </state>
+    <state x="320" y="159" key="Vcs.Push.Dialog.v2/0.23.1440.792@0.23.1440.792" timestamp="1603646603893" />
     <state x="320" y="160" key="Vcs.Push.Dialog.v2/0.23.1440.795@0.23.1440.795" timestamp="1603304664356" />
     <state x="518" y="340" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603645848962">
       <screen x="0" y="23" width="1440" height="792" />
