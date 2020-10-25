@@ -1,12 +1,22 @@
 
+body {margin: 0;
+    font-family: 'Fira sans', sans-serif;
 
+}
 .menu1 {
     display: flex;
     flex-direction: row;
-    width: 100%;
+    font-size: 11px;
+    font-weight: 800;
     justify-content: center;
-    padding: 12px;
+    padding: 10px 0 8px;
+    line-height: 1.4em;
 }
+
+.menu1>div { padding: 0 5px;
+
+}
+
 .color {
     color: darkred;
 
@@ -19,11 +29,17 @@
 .menu2 {
     display: flex;
     flex-direction: row;
-    width: 100%;
     justify-content: space-around;
-    height: 70px;
+    height: 85px;
     background: darkred;
     color: aliceblue;
+    align-items: center;
+}
+
+.button { display: flex;
+align-items: center;
+    font-size: 12px;
+    font-weight: 800;
 }
 
 .button-wrap {
@@ -62,7 +78,55 @@
     top: 10px;
 }
 
-{
+.George {
+font-size: 11px;
+}
+.lang {
+    display: flex;
+    font-size: 12px;
+    font-weight: 800;
+    justify-content: center;
+    align-items: center;
 
 }
 
+.ukr {
+    opacity: 0.5;
+
+}
+
+.club {
+    width: 80px;
+    display: flex;
+    background: #b30c1d;
+    border: #fff 3px solid;
+    height: 36px;
+    align-items: center;
+    justify-content: center;
+    margin-left: 20px;
+    border-radius: 20px;
+}
+
+.menu3 {
+    display: flex;
+    font-size: 14px;
+    line-height: 1.4em;
+    text-transform: uppercase;
+    padding-top: 10px;
+    padding-bottom: 5px;
+    overflow: hidden;
+    text-align: center;
+    font-weight: 800;
+    justify-content: center;
+}
+
+.menu3>div {
+    padding: 0 15px;
+
+}
+.menu4 {
+    display: flex;
+    margin-top: 22px;
+    flex-direction: column;
+    justify-content: center;
+}
