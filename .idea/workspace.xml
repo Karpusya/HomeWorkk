@@ -10,7 +10,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eefb2029-1cf6-41b5-a13a-8b20f2f714bb" name="Default Changelist" comment="" />
+    <list default="true" id="eefb2029-1cf6-41b5-a13a-8b20f2f714bb" name="Default Changelist" comment="27/10/20 new updated">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework 5/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Homework 5/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework 5/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Homework 5/style.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,7 +61,7 @@
       <workItem from="1603385299849" duration="9966000" />
       <workItem from="1603634107067" duration="278000" />
       <workItem from="1603644549197" duration="11864000" />
-      <workItem from="1603789415960" duration="1217000" />
+      <workItem from="1603789415960" duration="5654000" />
     </task>
     <task id="LOCAL-00001" summary="21.10.20">
       <created>1603304649749</created>
@@ -94,7 +98,21 @@
       <option name="project" value="LOCAL" />
       <updated>1603790856177</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="27.10.20 new updated">
+      <created>1603790925363</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1603790925363</updated>
+    </task>
+    <task id="LOCAL-00007" summary="27.10.20 new updated">
+      <created>1603790979130</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1603790979130</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -117,18 +135,21 @@
     <MESSAGE value="25.10.20" />
     <MESSAGE value="25.10.20 new updated" />
     <MESSAGE value="26.10.20 new updated" />
-    <option name="LAST_COMMIT_MESSAGE" value="26.10.20 new updated" />
+    <MESSAGE value="27.10.20 new updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="27.10.20 new updated" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="0" y="23" key="CommitChangelistDialog2" timestamp="1603790855917">
-      <screen x="0" y="23" width="1440" height="783" />
+    <state x="0" y="23" key="CommitChangelistDialog2" timestamp="1603791162441">
+      <screen x="0" y="23" width="1440" height="788" />
     </state>
     <state x="0" y="23" key="CommitChangelistDialog2/0.23.1440.783@0.23.1440.783" timestamp="1603790855917" />
+    <state x="0" y="23" key="CommitChangelistDialog2/0.23.1440.788@0.23.1440.788" timestamp="1603791162441" />
     <state x="0" y="23" key="CommitChangelistDialog2/0.23.1440.792@0.23.1440.792" timestamp="1603648235164" />
-    <state x="320" y="157" key="Vcs.Push.Dialog.v2" timestamp="1603790868074">
-      <screen x="0" y="23" width="1440" height="783" />
+    <state x="320" y="158" key="Vcs.Push.Dialog.v2" timestamp="1603790989976">
+      <screen x="0" y="23" width="1440" height="788" />
     </state>
     <state x="320" y="157" key="Vcs.Push.Dialog.v2/0.23.1440.783@0.23.1440.783" timestamp="1603790868074" />
+    <state x="320" y="158" key="Vcs.Push.Dialog.v2/0.23.1440.788@0.23.1440.788" timestamp="1603790989976" />
     <state x="320" y="159" key="Vcs.Push.Dialog.v2/0.23.1440.792@0.23.1440.792" timestamp="1603648245411" />
     <state x="320" y="160" key="Vcs.Push.Dialog.v2/0.23.1440.795@0.23.1440.795" timestamp="1603304664356" />
     <state x="518" y="340" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603645848962">
